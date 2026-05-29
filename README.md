@@ -54,3 +54,8 @@ The analysis shows that customer convenience (online ordering) and pricing play 
 2. Open notebook in Google Colab
 3. Upload zomato.csv
 4. Run all cells
+
+## 👤 Author
+
+**S.Krishna Kashyap**
+
